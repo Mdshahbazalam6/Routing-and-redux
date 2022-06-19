@@ -1,0 +1,10 @@
+.contentBox{
+    background-color:red;
+    border: 1px solid #cecece;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20vw;
+    padding-right: 20vw;
+    text-align: center;
+    margin: 1vh 0vw;
+}
